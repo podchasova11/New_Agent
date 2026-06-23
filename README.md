@@ -2,6 +2,8 @@
 
 ## New_Agent
 
+https://github.com/podchasova11/Dulus
+
 **Dulus** — это open-source автономный оркестратор AI-агентов (CLI-инструмент на Python).
 
 Суть: вы устанавливаете его (`pip install dulus`), подключаете любой LLM (Claude, GPT, Gemini, DeepSeek, Ollama и др.) и получаете мощную агентскую среду в терминале. Агент может:
